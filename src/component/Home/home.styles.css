@@ -1,0 +1,21 @@
+.container{
+    /* height: 100vh; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.card-container{
+    height: 400px;
+    width: 470px;
+    /* border: 2px solid red; */
+    
+    background-color: rgb(26, 110, 110);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
